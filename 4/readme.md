@@ -60,6 +60,8 @@ Dillinger uses a number of open source projects to work properly:
 
  [form]: <https://github.com/Michal3456/4ati/blob/main/4/diagram/tak.drawio.png>
 
+## Sketch a database without establishing a relationship
 
 [link to sketch a database][db]
+
  [db]: <https://github.com/Michal3456/4ati/blob/main/4/diagram/tak1.drawio.png>
