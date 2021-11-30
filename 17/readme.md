@@ -61,4 +61,8 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Sketch a database without establishing a relationship
 
+[link to sketch a database][db]
+
  [form]:  https://drive.google.com/file/d/1km2XHmea9d6bhqmySM2VIQt-L7PjWNJm/view?usp=sharing
+ 
+ [db]: https://drive.google.com/file/d/1Vm3y55KcqSO-qKc1R9nArnxkPO-NWbb4/view?usp=sharing
