@@ -1,4 +1,4 @@
-# CKZiU room reservation system
+# CKZiU Location System
 
 ## _contractor: Kacperek Dombrowski_
 ## _principal: Michał Czerwiński_
