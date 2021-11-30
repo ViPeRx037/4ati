@@ -11,7 +11,7 @@
 
 
 ## Abstract 
-  -
+  Randomize image from database and face detection.
 
 ## Main functionalities
 
