@@ -53,3 +53,10 @@ Dillinger uses a number of open source projects to work properly:
 
 
  [form]: <https://github.com/Michal3456/4ati/blob/main/5/sprites/DiagramKG.png>
+
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
+
+ [db]: <https://github.com/Michal3456/4ati/blob/main/5/sprites/SketchKG.png>
