@@ -50,14 +50,20 @@ Dillinger uses a number of open source projects to work properly:
 ## Layout for form in HTML
 
 [link to layout][form]
+
+
  [form]: <https://github.com/Michal3456/4ati/blob/main/5/sprites/DiagramKG.png>
 
 ## Sketch a database without establishing a relationship
 
 [link to sketch a database][db]
+
+
  [db]: <https://github.com/Michal3456/4ati/blob/main/5/sprites/SketchKG.png>
  
  ## Wireframe the main form on the application subpage
 
 [Wireframe the main form][wireframe]
+
+
  [wireframe]: <https://github.com/Michal3456/4ati/blob/main/5/sprites/a_wireframe_subpage.png>
