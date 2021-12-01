@@ -59,5 +59,5 @@ Dillinger uses a number of open source projects to work properly:
  
  ## Wireframe the main form on the application subpage
 
-[Wireframe the main form][wireframeMain]
- [wireframeMain]: <https://github.com/Michal3456/4ati/blob/main/5/sprites/a_wireframe_subpage.jpg>
+[Wireframe the main form][wireframe]
+ [wireframe]: <https://github.com/Michal3456/4ati/blob/main/5/sprites/a_wireframe_subpage.png>
