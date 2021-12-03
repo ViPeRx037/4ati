@@ -105,7 +105,7 @@ A subsection that presents a detailed description of the individual functionalit
  
  [form]: https://github.com/Michal3456/4ati/blob/main/8/Untitled%20Diagram.drawio.png
  
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
+ [db]: https://github.com/Michal3456/4ati/blob/main/8/Untitled%20Diagram.drawio%20(1).png
  
  [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
  
