@@ -71,4 +71,4 @@ Dillinger uses a number of open source projects to work properly:
  
  [db]: https://drive.google.com/file/d/1Vm3y55KcqSO-qKc1R9nArnxkPO-NWbb4/view?usp=sharing
  
- [wireframeExample]: 
+ [wireframeExample]: https://github.com/Michal3456/4ati/blob/main/17/Sprites/wireframe%20subpage_simple.jpg
