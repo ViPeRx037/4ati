@@ -63,6 +63,12 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to sketch a database][db]
 
+## Example of an empty wireframe of the main form on a subpage
+
+[Wireframe empty][wireframeExample]
+
  [form]:  https://drive.google.com/file/d/1km2XHmea9d6bhqmySM2VIQt-L7PjWNJm/view?usp=sharing
  
  [db]: https://drive.google.com/file/d/1Vm3y55KcqSO-qKc1R9nArnxkPO-NWbb4/view?usp=sharing
+ 
+ [wireframeExample]: 
