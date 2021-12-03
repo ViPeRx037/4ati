@@ -109,6 +109,6 @@ A subsection that presents a detailed description of the individual functionalit
  
  [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
  
- [wireframeExample]: <https://github.com/Michal3456/example_project/blob/main/sprites/wireframe%20subpage_simple.jpg>
+ [wireframeExample]: https://github.com/Michal3456/4ati/blob/main/8/3f02c7008f43488cae8214a4436e1c7c.png
 
 
