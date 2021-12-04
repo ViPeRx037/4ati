@@ -62,3 +62,11 @@ Dillinger uses a number of open source projects to work properly:
 [link to sketch a database][db]
 
  [db]: <https://github.com/Michal3456/4ati/blob/main/10/sprites/bazaLO.png>
+
+
+
+## Example of an empty wireframe of the main form on a subpage
+[Wireframe the main form][wireframeExample]
+
+ [wireframeExample]: <https://github.com/Michal3456/4ati/blob/main/10/sprites/wireframe1.png>
+
