@@ -63,3 +63,6 @@ Dillinger uses a number of open source projects to work properly:
  
  layout https://github.com/Michal3456/4ati/blob/main/14/Untitled%20Diagram.drawio.png
  diagram https://github.com/Michal3456/4ati/blob/main/14/Untitled%20Diagram.drawio.png
+ 
+ 
+ https://github.com/Michal3456/4ati/blob/main/14/a_wireframe_subpage.png.png
