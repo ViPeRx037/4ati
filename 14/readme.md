@@ -72,3 +72,7 @@ Dillinger uses a number of open source projects to work properly:
  
  
  https://github.com/Michal3456/4ati/blob/main/14/index.html
+ 
+ 
+ 
+ https://github.com/Michal3456/4ati/blob/main/14/index%20zad%206%20w%20html.html
